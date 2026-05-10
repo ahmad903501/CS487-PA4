@@ -7,3 +7,7 @@ venv/
 .env
 local.settings.generated.json
 npm-debug.log*
+function-app/AzuriteConfig
+function-app/__azurite_db_*.json
+function-app/__blobstorage__/
+function-app/__queuestorage__/

@@ -36,6 +36,8 @@ Azure Durable Function Orchestrator
 All container images are stored in Azure Container Registry.
 ```
 
+![TaskFlow architecture diagram](docs/architecturediagram.png)
+
 ## What You Must Complete
 
 | Task | Points | Required repo evidence |
